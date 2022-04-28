@@ -1,8 +1,8 @@
 ### Welcome to my GitHub profile!
 - 👋 Hi, I’m David Kim
 - 😄 I also go by Don Young
-- 👀 I love robots and manga!
-- 💬 Ask me about cyborgs!!!
+- 👀 I love robots and manga!!
+- 💬 Ask me about cyborgs...
 - 📫 Reach me at koyykdy@gmail.com
 
 <!--
