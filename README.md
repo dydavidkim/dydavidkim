@@ -1,4 +1,7 @@
-### Hi there 👋
+👋 Hi, I’m David
+👀 I love robots and manga!!
+💬 Ask me about cyborgs!!!
+📫 Reach me at koyykdy@gmail.com
 
 <!--
 **koyykdy/koyykdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
