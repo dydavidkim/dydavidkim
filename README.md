@@ -27,7 +27,7 @@ My name is David Kim, I am passionate about building solutions to challenging pr
 
 <code><img height="22" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></code> koyykdy@gmail.com
 
-<code><a href="https://www.linkedin.com/in/ammar-doo-7ba930225/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> linkedin.com/in/dydavidkim/
+<code><a href="https://www.linkedin.com/in/dydavidkim/"><img height="22" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code> linkedin.com/in/dydavidkim/
 
 <!--
 **koyykdy/koyykdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
