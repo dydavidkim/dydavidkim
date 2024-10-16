@@ -2,7 +2,7 @@
 
 <!-- <a href="https://github.com/sc00oby"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="160" /></a> -->
 
-My name is David Kim, I am passionate about building solutions to challenging problems. I am an experienced software engineer specializing in JavaScript (React, Redux, Node, and Express) with a background in machine learning using Python. I'm currently developing Spearmint, an open-source application for generating and running semantic tests for JavaScript applications. Recently featured as the primary speaker at SingleSprout's Speaker Series on Database Management.
+My name is David Kim, and I am passionate about building solutions to challenging problems. I am an experienced software engineer specializing in JavaScript (React, Redux, Node, and Express) with a background in machine learning using Python. I'm currently developing Spearmint, an open-source application for generating and running semantic tests for JavaScript applications. Recently featured as the primary speaker at SingleSprout's Speaker Series on Database Management.
 
 ## Languages and Tools:
 
