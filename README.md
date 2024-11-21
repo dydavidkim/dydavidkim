@@ -2,7 +2,8 @@
 
 <!-- <a href="https://github.com/dydavidkim"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" align="right" height="160" /></a> -->
 
-Hello! I am a machine learning engineer passionate about building solutions to challenging real-world problems. Recently featured as the primary speaker at SingleSprout's Speaker Series on Database Management.
+Hello! I am a machine learning engineer passionate about building solutions to challenging real-world problems.
+Previously featured as the primary speaker at SingleSprout's Speaker Series on Database Management.
 
 ## Contact: 
 
